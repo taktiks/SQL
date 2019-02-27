@@ -1,0 +1,8 @@
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('jonie','weber','sec','28','19500',now())
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('post','weber'.'prog','32','45300',now())
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('dirk','smith'.'prog2','45','75020',now())
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('leo','bosconovitch'.'scientist','23','72313',now())
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('hacor','deiztso'.'boss','34','999999',now())
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('judal','karut'.'mr','20','2500',now())
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('nestea','tang'.'ms','34','2634',now())
+INSERT INTO `employees`(`Fname`, `Lname`, `Title`, `Age`, `salary`, `DATE_TIME`) VALUES ('jin','kazama'.'hero','29','9090',now())
