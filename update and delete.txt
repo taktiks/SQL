@@ -1,0 +1,10 @@
+1. UPDATE `employees` SET `Lname` = 'williams'  WHERE `title` = 'secretary';
+2. UPDATE `employees` SET `Age` = '46'  WHERE `title` = 'programmerii';
+3. UPDATE `employees` SET `Lname` = 'Administrative_Assistant'  WHERE `title` = 'secretary';
+4. UPDATE `employees` SET `salary` = salary+3500 WHERE `salary` <= 30000;
+5. UPDATE `employees` SET `salary` = salary+4500 WHERE `salary` <= 33500;
+6. UPDATE `employees` SET `title` = 'programmer iii'  WHERE `title` = 'programmer2';
+7. UPDATE `employees` SET `title` = 'programmer ii'  WHERE `title` = 'programmer';
+
+1. DELETE FROM `employees` WHERE `fname` = 'jonie';
+2. DELETE FROM `employees` WHERE `salary` <= 70000;
